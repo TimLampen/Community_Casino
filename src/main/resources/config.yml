@@ -1,0 +1,17 @@
+
+
+casino:
+  login_win: "&6Congratulations! You have won a total of &b%amt% &6from a previous casino game!"
+  casino_win: "&6Congratulations! You have won a total of &b$%amt% &6!"
+  roulette:
+    refresh_time: 60
+    complete_bet: "&a$%amt% &4 has been waged on %color%"
+    place_bet: "&6How much would you like to bet on %color% &6?"
+
+
+errors:
+  no_decimals: "&4Error: Decimals are not allowed"
+  roulette_spinning: "&4Error: the roulette wheel is already spinning"
+  null_number: "&4Error: Could not parse number &b%num%"
+  no_funds: "&4Error: You do not have enough funds to complete this wager"
+  already_bet_color: "&4Error: You have already bet on this color"
